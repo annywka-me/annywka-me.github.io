@@ -154,7 +154,7 @@ a {
   -ms-flex: 0 auto;
   flex: 0 auto;
   background-image: url('../images/me.jpg');
-  background-position: 50% 15%;
+  background-position: 50% 10%;
   background-size: cover;
   -o-object-fit: cover;
   object-fit: cover;
@@ -199,9 +199,9 @@ a {
   .image {
     position: static;
     height: 420px;
-    max-height: 50vh;
-    min-height: auto;
-    background-position: 50% 0%;
+    max-height: 100vh;
+    min-height: 310px;
+    background-position: 50% 13%;
   }
 }
 
