@@ -200,7 +200,7 @@ a {
     position: static;
     height: 420px;
     max-height: 100vh;
-    min-height: 310px;
+    min-height: 80vh;
     background-position: 50% 13%;
   }
 }
