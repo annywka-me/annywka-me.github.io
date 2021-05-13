@@ -5,7 +5,7 @@ a {
 
 .body {
   display: block;
-  overflow: scroll;
+  overflow: auto;
   max-height: 100vh;
   background-color: #0b1c2f;
   font-family: Inter, sans-serif;
